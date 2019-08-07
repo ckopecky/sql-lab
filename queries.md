@@ -1,6 +1,6 @@
 # Database Queries
 
-## find all customers that live in London. Returns 6 records.
+## Find all customers with postal code 1010
 
 ```SQL
 SELECT CustomerName, ContactName, Address, City, FROM [Customers]
